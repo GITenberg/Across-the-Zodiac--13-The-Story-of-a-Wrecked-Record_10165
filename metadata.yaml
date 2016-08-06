@@ -1,0 +1,31 @@
+_repo: Across-the-Zodiac--13-The-Story-of-a-Wrecked-Record_10165
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Greg, Percy
+    alias: Holdreth, Lionel H.
+    birthdate: 1836
+    deathdate: 1889
+    gutenberg_agent_id: '3342'
+    url: http://www.gutenberg.org/2009/agents/3342
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Greg
+description: "Across the Zodiac: The Story of a Wrecked Record (1880) is a science\
+  \ fiction novel by Percy Greg, who has been credited as an originator of the sword\
+  \ and planet subgenre of science fiction.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10165'
+  wikidata: Q4676516
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+- GITenberg
+title: "Across the Zodiac\r\nThe Story of a Wrecked Record"
+url: http://www.gutenberg.org/ebooks/10165
+wikipedia:
+- https://en.wikipedia.org/wiki/Across_the_Zodiac
